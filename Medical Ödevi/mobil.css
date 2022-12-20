@@ -1,0 +1,19 @@
+
+#navbar{
+    flex-direction:column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 90px;
+    
+}
+
+#home{
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.container-3 {
+    flex-direction: column;
+    overflow: hidden;
+}

@@ -1,0 +1,68 @@
+/* text*/
+.text-center {
+    text-align: center;
+}
+
+.heading-small{
+    font-size: 1.25rem;
+}
+
+.heading-medium{
+    font-size: 1.5rem;
+}
+
+.heading-big{
+    font-size: 1.75rem;
+}
+
+/*color */
+.bg-dark-blue {
+    background: #042656;
+}
+
+.bg-dark-light{
+    background: rgb(228, 194, 100);
+
+}
+/* button */
+.btn:hover{
+    background-color: white;
+    color: #042656;
+    border-radius: 0.4rem;
+}
+
+.btn-dark:hover{
+    background-color: #042656;
+    color: white;
+    border-radius: 0.4rem;
+}
+
+.btn-block{
+    width: 100%;
+    text-align: center;
+}
+
+/* container */
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/*forms*/
+.form-group {
+    padding: 0.25rem 0;
+   
+}
+
+.form-group label {
+    display: block;
+}
+
+.form-control {
+    width: 100%;
+    padding: 0.4rem;
+    font-size: 1rem;
+    resize: none;
+    border-radius: 5px;
+}
+
